@@ -28,5 +28,5 @@ When purpleteam-labs receives a security bug report, it will be assigned to a pr
 
 ## Comments on this Policy
 
-If you have suggestions on how this process could be improved please consider contributing.
+If you have suggestions on how this process could be improved please consider [contributing](https://github.com/purpleteam-labs/purpleteam/blob/main/CONTRIBUTING.md).
 
