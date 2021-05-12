@@ -1,3 +1,5 @@
+<!-- If updating this document, please also update http://purpleteam-labs.com/security-policy/ -->
+
 # Security Procedures and Policies
 
 This document outlines security procedures and general policies for the purpleteam-labs organisation.
