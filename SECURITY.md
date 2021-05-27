@@ -1,5 +1,7 @@
 <!-- If updating this document, please also update http://purpleteam-labs.com/security-policy/ -->
 
+<!-- Security page: [AskNicely](https://www.asknicely.com/security) has some good content that's also relevant to purpleteam. -->
+
 # Security Procedures and Policies
 
 This document outlines security procedures and general policies for the purpleteam-labs organisation.
